@@ -1,1 +1,2 @@
-## Notes and Code for the course numerical analysis
+## Code for the course "Numerical Analysis"
+written in C++ and Mathematica
