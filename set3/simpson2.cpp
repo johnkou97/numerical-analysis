@@ -6,10 +6,10 @@
 int main(){
 	int i;
 	double Inte=0,h,x=0,n;
-	n=99;  /*set number of points*/
+	n=999;  /*set number of points*/
 	h=(2*3.14159265)/(n+1);
 	
-	for(i==0;i<n+2;i++)
+	for(i=0;i<n+2;i++)
 	{
 		if (x==0 or x==3)
 		{
@@ -27,7 +27,7 @@ int main(){
 	x=x+h   ;
 	
 	}
-	printf("%.12f\t",Inte);
+	printf("%.12f\t\n",Inte);
 	
 	return 0;
 }

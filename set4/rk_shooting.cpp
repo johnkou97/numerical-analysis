@@ -8,7 +8,7 @@ int main(){
 	double x=0.1 , y=1 , z=0 , y2=-16 , k1=0 , k2=0 , k21=0 , k22=0 , h=0.02,l;
 	
 	
-	for (i==0;i<500;i++)
+	for (i=0;i<500;i++)
 	{
 		x=x+h;
 			if (x>1.1)

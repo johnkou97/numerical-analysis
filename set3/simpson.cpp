@@ -9,7 +9,7 @@ int main(){
 	n=31;  /*set number of points*/
 	h=3/(n+1);
 	
-	for(i==0;i<n+2;i++)
+	for(i=0;i<n+2;i++)
 	{
 		if (x==0 or x==3)
 		{
@@ -27,7 +27,7 @@ int main(){
 	x=x+h   ;
 	
 	}
-	printf("%.12f\t",Inte);
+	printf("%.12f\t\n",Inte);
 	
 	return 0;
 }

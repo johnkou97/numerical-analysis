@@ -10,7 +10,7 @@ int main(){
 	pFile= fopen("RK4.txt","w");
 	
 	
-	for (i==0;i<60;i++)
+	for (i=0;i<60;i++)
 	{
 		x=x+h;
 		k11=-16*y*h;

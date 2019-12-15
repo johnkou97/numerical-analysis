@@ -10,7 +10,7 @@ int main(){
 	pFile= fopen("RK2.txt","w");
 	
 	printf("  x\t\t\ty\n");
-	for (i==0;i<600;i++)
+	for (i=0;i<600;i++)
 	{
 		x=x+h;
 		if(x>6)
